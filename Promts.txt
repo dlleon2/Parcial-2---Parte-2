@@ -1,0 +1,3 @@
+Quiero un programa en Java que simule un torneo con 16 jugadores usando hilos, concurrencia, piscina de hilos (ExecutorService),
+Callable para simular cada partido que retorna un ganador, Future para recoger los resultados, y un contador seguro para numerar cada partido sin errores de concurrencia.
+ Además, que muestre el nombre de la fase (octavos, cuartos, semifinal, final) y solo el ganador de cada partido.
